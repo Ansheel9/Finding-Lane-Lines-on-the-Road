@@ -37,4 +37,4 @@ A browser window will appear showing the contents of the current directory.  Cli
 
 ## Instruction
 
-To train the agent, start jupyter notebook, open <code> Finding_lane.ipynb </code> and execute! For more information, please check instructions inside the notebook.
+To train the agent, start jupyter notebook, open <code> P1.ipynb </code> and execute! For more information, please check instructions inside the notebook.

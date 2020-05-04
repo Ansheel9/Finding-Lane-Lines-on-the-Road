@@ -1,7 +1,3 @@
----
-title: 'Writeup'
-disqus: Ansheel Banthia
----
 
 Project 1 - Finding Lane Lines on the Road :car: 
 ===
@@ -19,7 +15,7 @@ Udacity Self-Driving Car Engineer Nanodegree
 <a name="sum"></a>
 ## Summary
 
-![](https://github.com/Ansheel9/P3-Collabration-Competition-DeepRL/blob/master/Images/plot.PNG)
+![](https://github.com/Ansheel9/Finding-Lane-Lines-on-the-Road/blob/master/test_images_output/solidWhiteCurve.jpg)
 
 When we drive, we use our eyes to decide where to go.  The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle.  Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
 
